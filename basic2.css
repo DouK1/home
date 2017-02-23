@@ -1,0 +1,24 @@
+p{
+	font-size: 32pt;
+	line-height: 25pt;
+	color: blue;
+	background-color: orange;
+	   font-family: "Arial", "Times New Roman", "serif"; 
+}
+h2{ font-size: 64pt;
+	color: red;
+}
+
+h1{
+font-size: 75pt;
+color: fuchsia;
+}
+
+body{
+background-color: teal;
+}
+
+.center{
+text-align:center;
+}
+

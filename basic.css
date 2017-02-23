@@ -1,0 +1,48 @@
+.center{
+text-align: center;
+display: block;
+margin-left: auto;
+margin-right: auto 
+}
+
+h1{
+font-size: 40pt;
+text-decoration: underline;
+color: white;
+}
+
+h2{
+color: gold;
+font-size: 30pt;
+}
+
+h3,h4{
+color: white;
+font-size: 24pt;
+}
+
+p{
+font-size: 16pt;
+color: red;
+}
+
+/* The font sizes took a lot of trial and error. */ 
+
+ul{
+font-size: 20pt;
+color: red;
+}
+
+body{
+background-color: blue;
+}
+
+#border{
+border-style: dashed;
+border-width: 12px;
+border-color: green;
+}
+
+a{
+color: green;
+}
